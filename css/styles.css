@@ -10948,6 +10948,12 @@ p.lead {
   margin-right: 0.3rem;
   margin-left: 0.3rem;
 }
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem; /* optional */
+}
 .social-icons .social-icon:last-child {
   margin-right: 0;
 }
