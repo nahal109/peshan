@@ -10945,8 +10945,8 @@ p.lead {
   background-color: #495057;
   color: #fff;
   border-radius: 100%;
-  font-size: 1.5rem;
-  margin-right: 2.2rem;
+  margin-right: 1.5rem;
+  margin-left: 2rem;
 }
 .social-icons .social-icon:last-child {
   margin-right: 0;
