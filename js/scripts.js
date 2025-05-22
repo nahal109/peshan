@@ -42,8 +42,8 @@ window.addEventListener('DOMContentLoaded', event => {
         document.body.classList.toggle("dark-mode", theme === "dark");
         icon.className = theme === "dark" ? "fas fa-sun" : "fas fa-moon";
         toggleBtn.className = theme === "dark"
-            ? "btn btn-dark position-fixed end-0 bottom-0 m-4 rounded-circle shadow"
-            : "btn btn-light position-fixed end-0 bottom-0 m-4 rounded-circle shadow";
+            ? "btn btn-dark position-fixed end-1 custom-theme-btn rounded-circle shadow"
+            : "btn btn-light position-fixed end-1 custom-theme-btn rounded-circle shadow";
     }
 
     toggleBtn.addEventListener("click", () => {
