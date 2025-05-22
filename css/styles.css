@@ -10984,4 +10984,9 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+  @media (min-width: 768px) {
+  .social-icons {
+    justify-content: flex-end;
+    padding-right: 20px;
+  }
 }
