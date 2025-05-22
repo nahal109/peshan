@@ -92,10 +92,6 @@ body.dark-mode {
   background-color: #333;
   color: #fff;
 }
-.custom-theme-btn {
-  bottom: 350px !important; /* moves the button up from the bottom */
-  right: 40px !important;  /* spacing from the right */
-}
 
 
 *,
